@@ -10,7 +10,7 @@ function Article() {
         setCount(count+1)
         console.log(count)
     }
-  return (
+  return 
     <div>
       <h2>Article</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque maiores nemo obcaecati a quam nihil nobis enim quod cupiditate, ipsam sunt laborum vel numquam, sint accusantium. Vitae aliquam esse culpa.</p>
